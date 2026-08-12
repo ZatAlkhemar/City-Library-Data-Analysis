@@ -1,5 +1,7 @@
 City Library Data Analysis - Git Commit History
 ============================================================
 
-1f38944 (HEAD -> main) Add final City Library analysis notebook
+68584b4 (HEAD -> main) Add final City Library analysis notebook
+f493469 Add final submission deliverables
+1f38944 Add final City Library analysis notebook
 fe69167 Complete City Library data analysis project
